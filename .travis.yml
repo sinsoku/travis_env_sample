@@ -1,0 +1,9 @@
+language: python
+python:
+- '3.3'
+notifications:
+  email: false
+script: echo "sample"
+env:
+  global:
+    secure: YF9/Rpmqn23Maqdt20mwuV/roqq/GRLXOI7WdDmpE4jXp5ncbEQL2zU9v5ZyIDej6L2rO2vNI0zRx3vhHfcYq22Lv/xhmbJUg7OdXfQbcNDtRhpTWco0QjMz4RVcFpvhmcwzAE0F57/G86RSZBatBjc+UIDTvIAyzajb5zZGdU0=
